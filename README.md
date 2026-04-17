@@ -106,7 +106,7 @@ PROFUNDIDAD_IA = 3   # Aumentar para una IA más fuerte (y más lenta)
 ## Autor
 
 **Alejandro Rodríguez Cervera**  
-[Portfolio](https://alejandrorc.carrd.co) · [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/alejandro-rodriguez-cervera-62544a35b/))
+[Portfolio](https://alejandrorc.carrd.co) · [LinkedIn]([https://www.linkedin.com/in/alejandro-rodriguez-cervera-62544a35b/])
 
 ---
 
